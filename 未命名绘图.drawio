@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T12:16:25.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="I-ve_9FlbMIDvwknkua2" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T12:16:32.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tdUhJVj1Pqzt_WITFp-Y" version="20.8.20" type="github">
   <diagram name="第 1 页" id="L4vdhgiQjDFBIKtXPQk2">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="400" y="80" width="350" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5wGxfzAdoBYVDlcDzX59-8" value="有监督的数据驱动算法：&lt;br&gt;MLP、UNet、ResNet、GAN等" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="100" y="70" width="180" height="180" as="geometry" />
+          <mxGeometry x="60" y="110" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5wGxfzAdoBYVDlcDzX59-5" value="无监督的数据驱动算法：&lt;br&gt;自监督算法；&lt;br&gt;生成式模型" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="180" height="180" as="geometry" />
+          <mxGeometry x="210" y="190" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5wGxfzAdoBYVDlcDzX59-11" value="有监督的数据驱动算法：&lt;br&gt;MLP、UNet、ResNet、GAN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="690" width="440" height="90" as="geometry" />
