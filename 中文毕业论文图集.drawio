@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T03:08:26.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="b6iwVTeiSzhBhnYeVnzK" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-23T03:08:59.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Zfsew8NOWYFr1PosliHQ" version="20.8.22" type="github" pages="2">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -619,6 +619,12 @@
         </mxCell>
         <mxCell id="pQ6vgvGYBMZDXzOxaDLs-73" value="(b)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="200" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-74" value="源域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="65" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-75" value="目标域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
