@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T08:40:42.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="B3EesGB37wQ7BN1HZFQB" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-23T08:51:59.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QLzNQqX5bSmpGk8v5rSs" version="20.8.23" type="github" pages="3">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -772,6 +772,26 @@
         </mxCell>
         <mxCell id="sbtN62HqG2LySxRsdHqI-38" value="（a）变分自编码器（VAE）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="452" width="199.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-I3atxXYCu32ynbVDv4-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="dWcZ9m_A0bTVOxRtXLfp-6" target="dWcZ9m_A0bTVOxRtXLfp-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="440" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="670" />
+              <mxPoint x="586" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-I3atxXYCu32ynbVDv4-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="Cl1Xk8rUX3Bxcq_GzgNx-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="596" y="603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="450" />
+              <mxPoint x="586" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
