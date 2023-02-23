@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T02:51:03.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c6lx02QD8_zgCmctTOD8" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-23T02:51:52.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RMkm52L4J5RB92UnQ_hl" version="20.8.22" type="github" pages="2">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -539,6 +539,14 @@
         </mxCell>
         <mxCell id="pQ6vgvGYBMZDXzOxaDLs-1" value="$$\delta$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="35" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=4;" edge="1" parent="1" source="pQ6vgvGYBMZDXzOxaDLs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-3" value="$$p(x)$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
