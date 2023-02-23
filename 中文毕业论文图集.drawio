@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T03:10:37.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nNrSt6uScIO-7_dUynnd" version="20.8.22" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-23T03:16:33.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bvvQUVri_rHXkHc_PxJl" version="20.8.22" type="github" pages="2">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -614,11 +614,11 @@
         <mxCell id="pQ6vgvGYBMZDXzOxaDLs-70" value="$$p(x)$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-72" value="(a)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="200" width="25" height="20" as="geometry" />
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-72" value="（a）同域中的贝叶斯磁共振重建过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-73" value="(b)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="200" width="25" height="20" as="geometry" />
+        <mxCell id="pQ6vgvGYBMZDXzOxaDLs-73" value="（b）基于知识迁移的磁共振重建过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pQ6vgvGYBMZDXzOxaDLs-74" value="源域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="364" y="25" width="50" height="30" as="geometry" />
