@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T09:33:56.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="q-SWdVBfynFKsYKr87vZ" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-24T09:37:36.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="y_de-iJaT1GV9JWae1MY" version="20.8.23" type="github" pages="4">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1405,7 +1405,7 @@
         <mxCell id="lPuf2nRR0k8RF5zvSGNP-163" value="$$x^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1400" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lPuf2nRR0k8RF5zvSGNP-164" value="$$r^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-164" value="$$m^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1530" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lPuf2nRR0k8RF5zvSGNP-175" style="edgeStyle=none;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endSize=4;elbow=vertical;" edge="1" parent="1" source="lPuf2nRR0k8RF5zvSGNP-166" target="lPuf2nRR0k8RF5zvSGNP-171">
@@ -1422,6 +1422,49 @@
         </mxCell>
         <mxCell id="lPuf2nRR0k8RF5zvSGNP-170" value="SVAE" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="946" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-185" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endSize=4;startArrow=none;" edge="1" source="lPuf2nRR0k8RF5zvSGNP-192" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1137.5" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-186" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endSize=4;" edge="1" source="lPuf2nRR0k8RF5zvSGNP-187" target="lPuf2nRR0k8RF5zvSGNP-192" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-187" value="$$x^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-188" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;endSize=4;" edge="1" source="lPuf2nRR0k8RF5zvSGNP-189" target="lPuf2nRR0k8RF5zvSGNP-192" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-189" value="$$m^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1122.5" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-191" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endSize=4;" edge="1" source="lPuf2nRR0k8RF5zvSGNP-192" target="lPuf2nRR0k8RF5zvSGNP-195" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1247.5" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-192" value="&lt;b&gt;-&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1137.5" y="1095" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-194" value="$$\eta$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1080" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-199" style="edgeStyle=none;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endSize=4;elbow=vertical;" edge="1" parent="1" source="lPuf2nRR0k8RF5zvSGNP-195" target="lPuf2nRR0k8RF5zvSGNP-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-195" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="1095" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-197" style="edgeStyle=none;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;endSize=4;elbow=vertical;" edge="1" parent="1" source="lPuf2nRR0k8RF5zvSGNP-196" target="lPuf2nRR0k8RF5zvSGNP-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-196" value="$$\beta^{(k)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-198" value="$$\beta^{(k+1)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1080" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
