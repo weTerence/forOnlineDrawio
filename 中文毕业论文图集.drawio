@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T08:50:01.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FhEPpR4_mXoxzPrR_HeF" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-24T08:52:42.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YQUYZwD1hTWh-0kmIPs6" version="20.8.23" type="github" pages="4">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1107,17 +1107,26 @@
         <mxCell id="lPuf2nRR0k8RF5zvSGNP-9" value="$$x^{(k)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1040" y="840" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lPuf2nRR0k8RF5zvSGNP-10" value="$$y_i$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="920" width="40" height="40" as="geometry" />
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-25" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;endSize=4;" edge="1" parent="1" source="lPuf2nRR0k8RF5zvSGNP-10" target="lPuf2nRR0k8RF5zvSGNP-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPuf2nRR0k8RF5zvSGNP-15" value="$$FS_i$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-10" value="$$y_i$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="890" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-15" value="$$\tau FS_i$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1080" y="840" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-27" style="edgeStyle=none;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endSize=4;" edge="1" parent="1" source="lPuf2nRR0k8RF5zvSGNP-17" target="lPuf2nRR0k8RF5zvSGNP-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lPuf2nRR0k8RF5zvSGNP-17" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1140" y="855" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lPuf2nRR0k8RF5zvSGNP-24" value="$$\tau$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="790" width="40" height="40" as="geometry" />
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-26" value="$$c_i^{(k)}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lPuf2nRR0k8RF5zvSGNP-28" value="$$F^{-1}(U^TU+\tau I)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="840" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
