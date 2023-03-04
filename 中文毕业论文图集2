@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:32:03.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3AwluRNXOefp0HS8RXyM" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:32:22.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="c_eBvxfwo-G76yx4LX19" version="21.0.2" type="github" pages="2">
   <diagram name="tsne" id="OU40iD-ST_QqEPHhs5rk">
     <mxGraphModel dx="1050" dy="2831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -346,7 +346,7 @@
         <mxCell id="yH8vJN27lry60ynA0zmC-132" value="$$\overrightarrow{0}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yH8vJN27lry60ynA0zmC-133" value="$$\overrightarrow{M}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yH8vJN27lry60ynA0zmC-133" value="$$\overrightarrow{M_0}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="477" y="29.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yH8vJN27lry60ynA0zmC-134" value="（a）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
