@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T13:40:39.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C6HcEn37rVnKF069KBB9" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-07T13:10:47.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q0rlTqCfiqXCxGHlELWD" version="21.0.2" type="github" pages="3">
   <diagram name="tsne" id="OU40iD-ST_QqEPHhs5rk">
-    <mxGraphModel dx="1050" dy="2831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1050" dy="2887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="jBUXm-2KTpIF6A0dYFcZ-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;rotation=45;strokeWidth=8;strokeColor=#FFB41F;dashed=1;rounded=0;" parent="jBUXm-2KTpIF6A0dYFcZ-1" vertex="1">
           <mxGeometry x="428.34716617874653" y="59.77008849557523" width="193.0409612336609" height="231.72902654867255" as="geometry" />
         </mxCell>
-        <mxCell id="jBUXm-2KTpIF6A0dYFcZ-8" value="膝盖MRI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#FF8000;strokeWidth=5;container=0;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=25;" parent="1" vertex="1">
+        <mxCell id="jBUXm-2KTpIF6A0dYFcZ-8" value="心脏MRI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#FF8000;strokeWidth=5;container=0;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="102.83242275634453" y="-1645.6637168141592" width="186.37295120177515" height="165.6637168141593" as="geometry" />
         </mxCell>
         <mxCell id="jBUXm-2KTpIF6A0dYFcZ-9" value="" style="shape=waypoint;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#000000;strokeWidth=4;container=0;rounded=0;" parent="1" vertex="1">
