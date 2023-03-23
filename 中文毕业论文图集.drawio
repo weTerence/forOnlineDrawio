@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T02:43:17.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="E-IyEZOX9fwihKZ-mAxx" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-23T03:49:15.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="g_0EEyAgvFAMjHqHsES2" version="21.0.6" type="github" pages="5">
   <diagram name="pipeline" id="Gqs6H3V1GMVFEFwaefwI">
-    <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="600" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
         <mxCell id="lTj_T8A3qL2pbx2PuDj2-61" value="DeConv2D 3×3-BN-Relu *2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="660" y="245.25" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lTj_T8A3qL2pbx2PuDj2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=10;fontColor=#EA6B66;startSize=6;endSize=4;fillColor=#ffe6cc;" parent="1" edge="1" target="vfbHDDMeZVlDDD8FU0SM-1">
+        <mxCell id="lTj_T8A3qL2pbx2PuDj2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=10;fontColor=#EA6B66;startSize=6;endSize=4;fillColor=#ffe6cc;" parent="1" target="vfbHDDMeZVlDDD8FU0SM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="734.5799999999999" y="264.25" as="sourcePoint" />
             <mxPoint x="734.5799999999999" y="279.25" as="targetPoint" />
@@ -483,16 +483,16 @@
             <mxPoint x="430" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vfbHDDMeZVlDDD8FU0SM-1" value="Conv2D 1×1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vfbHDDMeZVlDDD8FU0SM-1" value="Conv2D 1×1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="660" y="276.79" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vfbHDDMeZVlDDD8FU0SM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Times New Roman;fontSize=10;fontColor=#EA6B66;startSize=6;endSize=4;fillColor=#dae8fc;" edge="1" parent="1">
+        <mxCell id="vfbHDDMeZVlDDD8FU0SM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontFamily=Times New Roman;fontSize=10;fontColor=#EA6B66;startSize=6;endSize=4;fillColor=#dae8fc;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="734.4999999999999" y="296.79" as="sourcePoint" />
             <mxPoint x="734.92" y="309.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vfbHDDMeZVlDDD8FU0SM-6" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vfbHDDMeZVlDDD8FU0SM-6" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="739" y="293.25" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -819,7 +819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t02iOe0RDTF4qR4Bmaz0" name="UDUmodules">
-    <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="724" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
